@@ -38,14 +38,6 @@ Este desafío fue organizado por **Alura**, como parte de sus cursos de programa
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
-## Contribución
-
-Si deseas contribuir a este proyecto:
-- Realiza un fork del repositorio.
-- Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
-- Realiza tus cambios y súbelos (`git commit -m 'Agregada nueva funcionalidad'`).
-- Envía un Pull Request.
-
 ## Autor
 
 Desarrollado por Alex Calderon.
